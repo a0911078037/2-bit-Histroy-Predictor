@@ -831,4 +831,5 @@ int main() {
 	}
 	run_code(code, lable, lable_count, BTB_code);         //start to run the code
 	cout << "Done" << endl;
+	system("pause");
 }
